@@ -1,4 +1,4 @@
-import MarkCalculator from '@/components/useFormHook_task/markcalculator';
+import MarkCalculator from '../components/useFormHook_task/markcalculator';
 export default function Home() {
   return (
     <>
